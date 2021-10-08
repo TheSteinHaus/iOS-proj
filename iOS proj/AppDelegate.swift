@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  iOS proj
+//  fitnes
 //
-//  Created by wsr3 on 06.10.2021.
+//  Created by wsr5 on 05.10.2021.
 //
 
 import UIKit
